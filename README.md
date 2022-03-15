@@ -1,2 +1,2 @@
 # mob-app-tam-lrn
-Mobile App 
+Tamil Coding Tech Stack. 
